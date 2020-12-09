@@ -1,4 +1,4 @@
-// c++ program to estimate pi
+// c++ program to estimate pi (Serial version)
 #include<iostream>
 #include<math.h>
 #include<ctime>
