@@ -1,3 +1,4 @@
+//Author: Harindranath Ambalampitiya, PhD(Theoretical atomic and molecular physics)
 // c++ program to estimate pi (Serial version)
 #include<iostream>
 #include<math.h>
