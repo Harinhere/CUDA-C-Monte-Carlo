@@ -1,5 +1,5 @@
 //Author: Harindranath Ambalampitiya, PhD(Theoretical atomic and molecular physics)
-//
+//Parallel version
 #include <iostream>
 #include<math.h>
 #include<stdio.h>
