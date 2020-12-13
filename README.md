@@ -8,6 +8,11 @@ The parallel code was implemented using NVIDIA GeForce 940mx graphic processor w
 
 The Monte Carlo approach to compute pi is straight forward and is commented on the code.
 
+To run mcpi.cc, Use: g++ mpci.cc 
+and for mcpi.cu, Use : nvcc mpci.cu
+
+In both cases, an executable file "a.exe" will be created.
+
 
 The parallel code is transparent and can be easily modified to run more complicated calculations inlvolving Monte Carlo simulations (especially in atomic and molecular physics problems).
 
